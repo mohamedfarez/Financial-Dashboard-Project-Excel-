@@ -46,7 +46,7 @@ Based on the analysis performed using this dashboard, some key insights and reco
 
 ## Screenshots
 
-![Financial Dashboard Overview](images/2.png)
+![Financial Dashboard Overview](2.png)
 *(Make sure to upload `2.png` into an `images` folder within your GitHub repository.)*
 
 ## Contributing
